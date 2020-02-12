@@ -1,5 +1,5 @@
 # pgen
-Another python simple password generator usin the xxx-yyy-zzz-kkk pattern.
+Another simple password generator written in python using the xxx-yyy-zzz-kkk pattern.
 
 ## Usage
 
